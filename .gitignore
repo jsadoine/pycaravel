@@ -18,3 +18,10 @@ dist/
 pycaravel.egg-info/
 __pycache__/
 .eggs/
+
+# files
+.info_jsa.rst
+
+# pixi environments
+.pixi
+*.egg-info
